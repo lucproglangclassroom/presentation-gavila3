@@ -1,0 +1,12 @@
+Booth, Adrian. “Designing Data Intensive Applications: Strong Isolation Using Serializability.” 	
+	Medium, The Startup, 17 May 2020, https://medium.com/swlh/designing-data-intensive-applications-strong-isolation-using-serializability-8f4994c0834.
+ 
+Gigoyan, Sergey. “READ_COMMITTED_SNAPSHOT And SNAPSHOT_ISOLATION Levels in 	
+	SQL Server.” SQL Server Tips, Techniques and Articles, MSSQLTips, 20 Aug. 2020, 	
+	https://www.mssqltips.com/sqlservertip/6532/readcommittedsnapshot-and-snapshotisolation-levels-in-sql-server/#:~:text=SQL%20Server%20SNAPSHOT%20isolation%20level,achieving%20this%20are%20quite%20different. 
+
+Kudvenkat, director. Snapshot Isolation Level in SQL Server. YouTube, YouTube, 19 Aug. 2015, 	
+	https://www.youtube.com/watch?v=9NVu17LjPSA. Accessed 8 Dec. 2022. 
+
+will62794. “Snapshot-Isolation-Spec/Snapshotisolation.tla at Master · WILL62794/Snapshot-	
+	Isolation-Spec.” GitHub, 28 Feb. 2018, https://github.com/will62794/snapshot-isolation-spec/blob/master/SnapshotIsolation.tla. 
